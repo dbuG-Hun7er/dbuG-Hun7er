@@ -1,12 +1,12 @@
 # 🐝 Lucas Ferreira | BugHun77
 
-QA Engineer focused on **Software Quality, Test Automation and Security mindset**.
+QA Engineer focused on Test Automation, API Testing and Software Quality.
 
 ---
 
 ## 🚀 About Me
 
-🔎 QA Engineer passionate about finding bugs and improving software quality.
+🔎 QA Engineer passionate about ensuring software quality through test automation, API testing and structured testing strategies.
 
 - Test Automation with **Cypress**
 - **API Testing**
@@ -53,6 +53,7 @@ Currently studying **Quality Engineering and CyberSecurity**.
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=dbuG-Hun7er&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbuG-Hun7er&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Contact
